@@ -1,7 +1,6 @@
 import React from "react";
 import ProductGallery from "./ProductGallery";
-import "slick-carousel/slick/slick.css";
-import "slick-carousel/slick/slick-theme.css";
+
 
 import NestedCheckbox from "../NestedCheckbox/NestedCheckbox";
 import "./ProductPage.css";
