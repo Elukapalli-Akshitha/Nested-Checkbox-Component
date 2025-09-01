@@ -63,7 +63,7 @@ body { margin: 0; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto
 .main-img-wrap:hover .main-img{ transform: scale(1.06); }
 
 .nav{
-  height: 48px; width: 48px; border-radius: 50%;
+  height: 48px; border-radius: 50%;
   border: none; cursor: pointer; background: #f3f4f6; color: #111827; font-size: 28px; line-height: 0;
 }
 .nav:hover{ background: #e5e7eb; }

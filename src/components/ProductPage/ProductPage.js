@@ -39,7 +39,7 @@ const ProductPage = () => {
       "/images/honey-2.jpg",
       "/images/honey-3.jpg",
       "/images/honey-4.jpg",
-      "/images/honey-5.jpg",
+    //   "/images/honey-5.jpg",
       "/images/honey-6.jpg",
     ],
     fallbackImages: [
@@ -47,7 +47,7 @@ const ProductPage = () => {
       "https://picsum.photos/seed/honey-2/900/900",
       "https://picsum.photos/seed/honey-3/900/900",
       "https://picsum.photos/seed/honey-4/900/900",
-      "https://picsum.photos/seed/honey-5/900/900",
+    //   "https://picsum.photos/seed/honey-5/900/900",
       "https://picsum.photos/seed/honey-6/900/900",
     ],
     bundleText: "🔥 Beauty Bundle: Save 10% when buying 3 jars",
