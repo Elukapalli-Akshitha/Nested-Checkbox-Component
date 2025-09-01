@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nested-Checkbox-Component/static/css/main.f855e6bc.css",
+    "main.js": "/Nested-Checkbox-Component/static/js/main.1c75a6c6.js",
+    "static/js/453.d8a28d47.chunk.js": "/Nested-Checkbox-Component/static/js/453.d8a28d47.chunk.js",
+    "static/media/logo.svg": "/Nested-Checkbox-Component/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Nested-Checkbox-Component/index.html",
+    "main.f855e6bc.css.map": "/Nested-Checkbox-Component/static/css/main.f855e6bc.css.map",
+    "main.1c75a6c6.js.map": "/Nested-Checkbox-Component/static/js/main.1c75a6c6.js.map",
+    "453.d8a28d47.chunk.js.map": "/Nested-Checkbox-Component/static/js/453.d8a28d47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1c75a6c6.js"
+  ]
+}
